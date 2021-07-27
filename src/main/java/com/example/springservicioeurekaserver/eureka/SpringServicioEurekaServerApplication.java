@@ -10,4 +10,5 @@ public class SpringServicioEurekaServerApplication {
         SpringApplication.run(SpringServicioEurekaServerApplication.class, args);
     }
 
+    // esto va a ser un hiuevo
 }
